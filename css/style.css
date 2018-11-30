@@ -4,8 +4,21 @@
   box-sizing: border-box;
 }
 .container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
    width: 80%;
    margin: 0 auto;
    background-color: yellow;
    height: 100vh;
+}
+.sliderImmagini{
+  background-color: orange;
+  height: 400px;
+  width: 100%;
+  text-align: center;
+}
+.elementoImg {
+  height: 100%;
+  max-width: 100%;
 }
