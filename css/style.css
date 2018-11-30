@@ -22,3 +22,7 @@
   height: 100%;
   max-width: 100%;
 }
+.precedente i,
+.prossimo i {
+  font-size: 50px;
+}
