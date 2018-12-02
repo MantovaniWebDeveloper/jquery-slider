@@ -23,7 +23,7 @@
   display: none;
 }
 .active {
-  display: block;
+  display: inline-block;
 }
 .precedente i,
 .prossimo i {
